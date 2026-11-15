@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth scroll-pt-24 overflow-x-clip">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Health Articles | Dr. Rukhsana Alam</title>
+<meta name="description" content="Practical articles on pregnancy, periods, fertility, screening and surgery by Dr. Rukhsana Alam, Consultant Gynecologist in Dhaka and Chattogram.">
+<link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Public+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com/3.4.17"></script>
+<script src="assets/js/tailwind-config.js"></script>
+</head>
+<body class="relative overflow-x-clip bg-white font-body text-body antialiased" data-page="blog">
+<div id="site-header"></div>
+<main id="main">
+  <div id="page-head"></div>
+  <section class="bg-white py-16 sm:py-20 lg:py-24" aria-label="Articles">
+    <div class="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-10 lg:grid-cols-12">
+        <div class="min-w-0 lg:col-span-8">
+          <div class="relative">
+            <label for="blog-search" class="sr-only">Search articles</label>
+            <span id="search-icon" class="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-teal-dark" aria-hidden="true"></span>
+            <input id="blog-search" type="search" autocomplete="off" placeholder="Search articles, for example periods or delivery" class="w-full rounded border border-slate-300 bg-white px-4 py-3 pl-12 text-sm text-navy placeholder:text-slate-400 transition focus:border-teal focus:outline-none focus:ring-4 focus:ring-teal/25">
+          </div>
+          <div id="blog-tabs" class="mt-5 flex overflow-x-auto" role="group" aria-label="Filter by category"></div>
+          <p id="blog-count" class="mt-5 text-sm font-semibold text-navy" aria-live="polite"></p>
+          <div id="blog-featured" class="mt-6"></div>
+          <div id="blog-grid" class="mt-6 grid gap-6 sm:grid-cols-2"></div>
+        </div>
+        <aside class="lg:col-span-4" aria-label="Blog sidebar">
+          <div class="space-y-6 lg:sticky lg:top-28">
+            <div id="blog-cats"></div>
+            <div id="blog-recent"></div>
+            <div id="blog-cta"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+</main>
+<div id="site-footer"></div>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/ui.js"></script>
+<script src="assets/js/art.js"></script>
+<script src="assets/js/layout.js"></script>
+<script src="assets/js/pages/blog.js"></script>
+</body>
+</html>

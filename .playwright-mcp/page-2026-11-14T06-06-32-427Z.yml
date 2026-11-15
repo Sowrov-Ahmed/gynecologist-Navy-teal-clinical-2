@@ -1,0 +1,246 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e3]:
+    - link "+880 1819-336472" [ref=f3e5] [cursor=pointer]:
+      - /url: tel:+8801819336472
+    - link "Sign in" [ref=f3e9] [cursor=pointer]:
+      - /url: auth.html
+  - banner [ref=f3e13]:
+    - generic [ref=f3e14]:
+      - link "Dr. Rukhsana Alam home" [ref=f3e15] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=f3e16]: RA
+        - generic [ref=f3e17]:
+          - generic [ref=f3e18]: Dr. Rukhsana Alam
+          - generic [ref=f3e19]: Gynecology & Obstetrics
+      - button "Open menu" [ref=f3e21] [cursor=pointer]
+  - main [ref=f3e23]:
+    - generic [ref=f3e26]:
+      - generic [ref=f3e27]:
+        - paragraph [ref=f3e28]: FAQs
+        - heading "Answers to your questions" [level=1] [ref=f3e30]
+        - paragraph [ref=f3e31]: Booking, pregnancy care, treatments and payments explained clearly, so you know what to expect before you visit.
+      - img "Dr. Rukhsana Alam reviewing patient records on a tablet in her consulting room" [ref=f3e36]
+    - region "Frequently asked questions" [ref=f3e37]:
+      - generic [ref=f3e38]:
+        - generic [ref=f3e39]:
+          - paragraph [ref=f3e40]: 01 / Help centre
+          - heading "Everything patients ask us most" [level=2] [ref=f3e42]
+        - generic [ref=f3e44]:
+          - complementary [ref=f3e45]:
+            - navigation "FAQ categories" [ref=f3e46]:
+              - generic [ref=f3e47]:
+                - button "All 12" [pressed] [ref=f3e48] [cursor=pointer]:
+                  - generic [ref=f3e49]: All
+                  - generic [ref=f3e50]: "12"
+                - button "Appointments 5" [ref=f3e51] [cursor=pointer]:
+                  - generic [ref=f3e52]: Appointments
+                  - generic [ref=f3e53]: "5"
+                - button "Pregnancy 3" [ref=f3e54] [cursor=pointer]:
+                  - generic [ref=f3e55]: Pregnancy
+                  - generic [ref=f3e56]: "3"
+                - button "Treatments 2" [ref=f3e57] [cursor=pointer]:
+                  - generic [ref=f3e58]: Treatments
+                  - generic [ref=f3e59]: "2"
+                - button "Payments 2" [ref=f3e60] [cursor=pointer]:
+                  - generic [ref=f3e61]: Payments
+                  - generic [ref=f3e62]: "2"
+            - generic [ref=f3e63]:
+              - heading "Still have questions?" [level=3] [ref=f3e64]
+              - paragraph [ref=f3e65]: Our team replies within working hours, Saturday to Thursday.
+              - generic [ref=f3e66]:
+                - link "Call now" [ref=f3e67] [cursor=pointer]:
+                  - /url: tel:+8801819336472
+                - link "WhatsApp" [ref=f3e70] [cursor=pointer]:
+                  - /url: https://wa.me/8801819336472
+                - link "Send a message" [ref=f3e73] [cursor=pointer]:
+                  - /url: contact.html
+          - generic [ref=f3e77]:
+            - generic [ref=f3e78]:
+              - generic [ref=f3e79]: Search questions
+              - searchbox "Search questions" [ref=f3e80]
+            - paragraph [ref=f3e81]: 12 questions found
+            - generic [ref=f3e82]:
+              - generic [ref=f3e83]:
+                - heading [level=3] [ref=f3e84]:
+                  - button "01 How can I book an appointment?" [expanded] [ref=f3e85] [cursor=pointer]:
+                    - generic [ref=f3e86]: "01"
+                    - generic [ref=f3e87]: How can I book an appointment?
+                - region "01 How can I book an appointment?" [ref=f3e91]:
+                  - paragraph [ref=f3e93]: Book online through the appointment page, call +880 1819-336472 or message on WhatsApp. You will receive an SMS confirmation within two hours.
+              - generic [ref=f3e94]:
+                - heading [level=3] [ref=f3e95]:
+                  - button "02 What should I bring to my first visit?" [ref=f3e96] [cursor=pointer]:
+                    - generic [ref=f3e97]: "02"
+                    - generic [ref=f3e98]: What should I bring to my first visit?
+                - region "02 What should I bring to my first visit?":
+                  - paragraph [ref=f3e102]: Bring previous prescriptions, test reports and ultrasound scans, and note the first day of your last period.
+              - generic [ref=f3e103]:
+                - heading [level=3] [ref=f3e104]:
+                  - button "03 Can I change or cancel my appointment?" [ref=f3e105] [cursor=pointer]:
+                    - generic [ref=f3e106]: "03"
+                    - generic [ref=f3e107]: Can I change or cancel my appointment?
+                - region "03 Can I change or cancel my appointment?":
+                  - paragraph [ref=f3e111]: Yes. Please inform us at least 12 hours ahead so the slot can be offered to another patient.
+              - generic [ref=f3e112]:
+                - heading [level=3] [ref=f3e113]:
+                  - button "04 Are walk-in patients seen?" [ref=f3e114] [cursor=pointer]:
+                    - generic [ref=f3e115]: "04"
+                    - generic [ref=f3e116]: Are walk-in patients seen?
+                - region "04 Are walk-in patients seen?":
+                  - paragraph [ref=f3e120]: Walk-ins are seen after booked patients, so waiting can be long. Booking ahead is strongly recommended.
+              - generic [ref=f3e121]:
+                - heading [level=3] [ref=f3e122]:
+                  - button "05 Is online consultation available?" [ref=f3e123] [cursor=pointer]:
+                    - generic [ref=f3e124]: "05"
+                    - generic [ref=f3e125]: Is online consultation available?
+                - region "05 Is online consultation available?":
+                  - paragraph [ref=f3e129]: Existing patients can request video follow-ups. First visits are in person so that a proper examination can be done.
+              - generic [ref=f3e130]:
+                - heading [level=3] [ref=f3e131]:
+                  - button "06 When should my first antenatal visit be?" [ref=f3e132] [cursor=pointer]:
+                    - generic [ref=f3e133]: "06"
+                    - generic [ref=f3e134]: When should my first antenatal visit be?
+                - region "06 When should my first antenatal visit be?":
+                  - paragraph [ref=f3e138]: As soon as the pregnancy test is positive, ideally by 8 to 10 weeks, so tests and vitamins can start early.
+              - generic [ref=f3e139]:
+                - heading [level=3] [ref=f3e140]:
+                  - button "07 How often are antenatal visits needed?" [ref=f3e141] [cursor=pointer]:
+                    - generic [ref=f3e142]: "07"
+                    - generic [ref=f3e143]: How often are antenatal visits needed?
+                - region "07 How often are antenatal visits needed?":
+                  - paragraph [ref=f3e147]: Monthly until week 28, every two weeks until week 36 and weekly after that, unless your doctor advises a different schedule.
+              - generic [ref=f3e148]:
+                - heading [level=3] [ref=f3e149]:
+                  - button "08 Is travel safe during pregnancy?" [ref=f3e150] [cursor=pointer]:
+                    - generic [ref=f3e151]: "08"
+                    - generic [ref=f3e152]: Is travel safe during pregnancy?
+                - region "08 Is travel safe during pregnancy?":
+                  - paragraph [ref=f3e156]: Travel is generally safe in the second trimester. Discuss long journeys with your doctor, especially after week 34 or with any complication.
+              - generic [ref=f3e157]:
+                - heading [level=3] [ref=f3e158]:
+                  - button "09 Is laparoscopic surgery safe?" [ref=f3e159] [cursor=pointer]:
+                    - generic [ref=f3e160]: "09"
+                    - generic [ref=f3e161]: Is laparoscopic surgery safe?
+                - region "09 Is laparoscopic surgery safe?":
+                  - paragraph [ref=f3e165]: Yes. It is a well-established technique with smaller wounds, less pain and quicker recovery. Your suitability is checked before surgery.
+              - generic [ref=f3e166]:
+                - heading [level=3] [ref=f3e167]:
+                  - button "10 Does every PCOS patient need medicines?" [ref=f3e168] [cursor=pointer]:
+                    - generic [ref=f3e169]: "10"
+                    - generic [ref=f3e170]: Does every PCOS patient need medicines?
+                - region "10 Does every PCOS patient need medicines?":
+                  - paragraph [ref=f3e174]: No. Many women improve with diet and exercise alone. Medicines are added only when tests and symptoms require them.
+              - generic [ref=f3e175]:
+                - heading [level=3] [ref=f3e176]:
+                  - button "11 What are the consultation fees?" [ref=f3e177] [cursor=pointer]:
+                    - generic [ref=f3e178]: "11"
+                    - generic [ref=f3e179]: What are the consultation fees?
+                - region "11 What are the consultation fees?":
+                  - paragraph [ref=f3e183]: New patients pay ৳1,200 to ৳1,800 depending on the chamber. Follow-up visits within 30 days are ৳600 to ৳1,000.
+              - generic [ref=f3e184]:
+                - heading [level=3] [ref=f3e185]:
+                  - button "12 Which payment methods are accepted?" [ref=f3e186] [cursor=pointer]:
+                    - generic [ref=f3e187]: "12"
+                    - generic [ref=f3e188]: Which payment methods are accepted?
+                - region "12 Which payment methods are accepted?":
+                  - paragraph [ref=f3e192]: Cash, bKash, Nagad and major debit or credit cards are accepted at the hospital counters.
+  - generic [ref=f3e194]:
+    - generic [ref=f3e195]:
+      - heading "Book your consultation today" [level=2] [ref=f3e196]
+      - paragraph [ref=f3e197]: Chambers in Gulshan, Mirpur and Chattogram. New patients are always welcome.
+    - generic [ref=f3e198]:
+      - link "Book Appointment" [ref=f3e199] [cursor=pointer]:
+        - /url: appointment.html
+      - link "+880 1819-336472" [ref=f3e202] [cursor=pointer]:
+        - /url: tel:+8801819336472
+  - contentinfo [ref=f3e205]:
+    - generic [ref=f3e206]:
+      - generic [ref=f3e207]:
+        - link "Dr. Rukhsana Alam home" [ref=f3e208] [cursor=pointer]:
+          - /url: index.html
+          - generic [ref=f3e209]: RA
+          - generic [ref=f3e210]:
+            - generic [ref=f3e211]: Dr. Rukhsana Alam
+            - generic [ref=f3e212]: Gynecology & Obstetrics
+        - paragraph [ref=f3e213]: Careful, evidence-based women's healthcare, from pregnancy to menopause.
+        - paragraph [ref=f3e214]: Call for appointment
+        - link "+880 1819-336472" [ref=f3e215] [cursor=pointer]:
+          - /url: tel:+8801819336472
+        - paragraph [ref=f3e216]: MBBS, MS (Obs & Gynae) · BMDC Reg. A-52946
+        - generic [ref=f3e217]:
+          - link "facebook" [ref=f3e218] [cursor=pointer]:
+            - /url: https://www.facebook.com/drrukhsanaalam
+          - link "linkedin" [ref=f3e221] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/drrukhsanaalam
+          - link "youtube" [ref=f3e226] [cursor=pointer]:
+            - /url: https://www.youtube.com/@drrukhsanaalam
+          - link "instagram" [ref=f3e230] [cursor=pointer]:
+            - /url: https://www.instagram.com/drrukhsanaalam
+      - generic [ref=f3e234]:
+        - heading "Services" [level=3] [ref=f3e235]
+        - list [ref=f3e237]:
+          - listitem [ref=f3e238]:
+            - link "Pregnancy Care & Antenatal Clinic" [ref=f3e239] [cursor=pointer]:
+              - /url: service-details.html?slug=pregnancy-care
+          - listitem [ref=f3e242]:
+            - link "Normal Delivery & Caesarean Section" [ref=f3e243] [cursor=pointer]:
+              - /url: service-details.html?slug=safe-delivery
+          - listitem [ref=f3e246]:
+            - link "Infertility & IVF Guidance" [ref=f3e247] [cursor=pointer]:
+              - /url: service-details.html?slug=infertility-care
+          - listitem [ref=f3e250]:
+            - link "PCOS, Periods & Hormonal Health" [ref=f3e251] [cursor=pointer]:
+              - /url: service-details.html?slug=pcos-menstrual-health
+          - listitem [ref=f3e254]:
+            - link "Laparoscopic & Hysteroscopic Surgery" [ref=f3e255] [cursor=pointer]:
+              - /url: service-details.html?slug=laparoscopic-surgery
+          - listitem [ref=f3e258]:
+            - link "Cancer Screening & Menopause Care" [ref=f3e259] [cursor=pointer]:
+              - /url: service-details.html?slug=screening-menopause
+      - generic [ref=f3e262]:
+        - heading "Chamber hours" [level=3] [ref=f3e263]
+        - list [ref=f3e265]:
+          - listitem [ref=f3e266]:
+            - link "Metro Women's & Children's Hospital" [ref=f3e267] [cursor=pointer]:
+              - /url: chambers.html#gulshan
+            - generic [ref=f3e268]: Gulshan, Dhaka
+            - generic [ref=f3e269]: Sat, Mon, Wed · 5:00 PM – 9:00 PM
+          - listitem [ref=f3e270]:
+            - link "Greenfield Specialized Hospital" [ref=f3e271] [cursor=pointer]:
+              - /url: chambers.html#mirpur
+            - generic [ref=f3e272]: Mirpur, Dhaka
+            - generic [ref=f3e273]: Sun, Tue, Thu · 3:00 PM – 7:00 PM
+          - listitem [ref=f3e274]:
+            - link "Port City Care Hospital" [ref=f3e275] [cursor=pointer]:
+              - /url: chambers.html#chattogram
+            - generic [ref=f3e276]: GEC Circle, Chattogram
+            - generic [ref=f3e277]: Fri · 10:00 AM – 2:00 PM
+      - generic [ref=f3e278]:
+        - heading "Quick links" [level=3] [ref=f3e279]
+        - list [ref=f3e281]:
+          - listitem [ref=f3e282]:
+            - link "About" [ref=f3e283] [cursor=pointer]:
+              - /url: about.html
+          - listitem [ref=f3e284]:
+            - link "Chambers" [ref=f3e285] [cursor=pointer]:
+              - /url: chambers.html
+          - listitem [ref=f3e286]:
+            - link "Blog" [ref=f3e287] [cursor=pointer]:
+              - /url: blog.html
+          - listitem [ref=f3e288]:
+            - link "Testimonials" [ref=f3e289] [cursor=pointer]:
+              - /url: testimonials.html
+          - listitem [ref=f3e290]:
+            - link "FAQs" [ref=f3e291] [cursor=pointer]:
+              - /url: faqs.html
+          - listitem [ref=f3e292]:
+            - link "Appointment" [ref=f3e293] [cursor=pointer]:
+              - /url: appointment.html
+    - generic [ref=f3e295]:
+      - paragraph [ref=f3e296]: © 2026 Dr. Rukhsana Alam. All rights reserved.
+      - generic [ref=f3e297]:
+        - link "Terms & Conditions" [ref=f3e298] [cursor=pointer]:
+          - /url: terms.html
+        - link "Privacy Policy" [ref=f3e299] [cursor=pointer]:
+          - /url: privacy.html
+  - button "Back to top"
